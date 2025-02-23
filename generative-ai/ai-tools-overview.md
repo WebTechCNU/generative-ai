@@ -130,7 +130,7 @@ Write in the AI prompt: add code to show animated popup on hovering the product 
 Copy the generated code to the appropriate files.
 Note: be careful as some code needs to be completely replaced and some code needs to be added to existing files, for example, like this CSS file:
 
-![replit](./images/ai10.png)
+![replit](./images/ai10_n.png)
 
 
 
