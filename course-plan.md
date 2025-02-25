@@ -61,12 +61,14 @@
 
 13. [Prometheus course](https://prometheus.org.ua/prometheus-free/intro-to-chatgpt/?utm_source=sendy&utm_medium=email&utm_campaign=email-chatgpt-february-digest-active1)
 
+14. AI safety 
+
 
 ## Student activity
 
 
 | Date    | Name | Link to research | Progress |
 | ------- | ----- | ------------- | -------- |
-| 25-02-2025    | Анастасія Дармограй       | AI images         | ✅ |
-| 04-03-2025    | ❔    | ❔    | ❔ |
+| 25-02-2025    | Анастасія Дармограй       | AI images                     | ✅ |
+| 04-03-2025    | Олександр Бердник         | Music & Audio Generation      | ❔ |
 
