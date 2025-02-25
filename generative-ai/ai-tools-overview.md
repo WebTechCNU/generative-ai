@@ -119,7 +119,7 @@ or select Generate to specify your task for the bot to generate code.
 
 Make sure all 3 files are selected.
 
-In the prompt, write: `Generate HTML and CSS code for a styled landing page for marketing my coffee shop. Code only no explanation.
+In the prompt, write: `Generate HTML and CSS code for a styled landing page for marketing my coffee shop. Code only no explanation`.
 Copy the generated code into the appropriate html and css files.
 
 Go to Webview and click “Run”. You should see your new website template:
@@ -156,7 +156,7 @@ Go to Webview and click “Run”. You should see your new website template:
 
 **Add chatbot to page.**
 
-BotPenguin supports integration with a variety of website platforms, including WordPress, Shopify, and regular HTML websites:
+[BotPenguin](https://botpenguin.com/) supports integration with a variety of website platforms, including WordPress, Shopify, and regular HTML websites:
 - WordPress: Use the provided plugin or shortcode.
 - Shopify: Add the chatbot script to your Shopify theme.
 - Custom HTML: Paste the provided JavaScript snippet before the closing </body> tag of your website's HTML code.

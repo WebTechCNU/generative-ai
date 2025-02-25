@@ -1,6 +1,6 @@
-# Topics for students personal research
+# Student Work
 
-
+## Topics for students personal research
 
 1. Music & Audio Generation
 
@@ -27,4 +27,15 @@
 12. Build custom RAG system
 
 13. Build custom GAN from scratch
+
+14. [Prometheus course](https://prometheus.org.ua/prometheus-free/intro-to-chatgpt/?utm_source=sendy&utm_medium=email&utm_campaign=email-chatgpt-february-digest-active1)
+
+
+## Student activity
+
+
+| Date    | Name | Link to research | Progress |
+| ------- | ----- | ------------- | -------- |
+| 25-02-2025    | Анастасія Дармограй       | AI images         | ✅ |
+| 04-03-2025    | ❔    | ❔    | ❔ |
 
