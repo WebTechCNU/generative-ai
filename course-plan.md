@@ -70,5 +70,5 @@
 | Date    | Name | Link to research | Progress |
 | ------- | ----- | ------------- | -------- |
 | 25-02-2025    | Анастасія Дармограй       | AI images                     | ✅ |
-| 04-03-2025    | Олександр Бердник         | Music & Audio Generation      | ❔ |
+| 04-03-2025    | Олександр Бердник         | Music & Audio Generation      | ✅ |
 
