@@ -35,11 +35,11 @@
 
 ## Topics for students personal research
 
-1. Music & Audio Generation
+1. ~~Music & Audio Generation~~
 
 2. Video Generation & Editing 
 
-3. AI-Generated Images 
+3. ~~AI-Generated Images~~
 
 4. Audio-to-Image Synthesis 
 
