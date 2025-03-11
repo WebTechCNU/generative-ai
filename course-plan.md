@@ -2,33 +2,31 @@
 
 ## Plan 
 
-1. Prompt Engineering 
+1. Prompt Engineering ✅
 - Techniques
 - Summarizing 
 - Transforming, extracting, ...
 
-2. AI models overview
+2. AI models overview ✅
 - chatbots
 - text to video, video editing, music
 - text to image
 - customization
 
-3. RAG system 
+3. RAG system ✅
 - vectorization, quering, etc. 
 - custom rag system construction 
 
-4. Generative AI
+4. Generative AI ✅
 - key concepts
 - generative models (Gaussian mixture, Auotoencoders etc.)
-
-5. DL-based models 
 - GAN (generative adv.)
 - VAe
 
-6. Generative ai for DS
+5. Generative ai for DS
 - key tools and techniques
 
-7. AR
+6. AR
 - Unity (??)
 - open cv python module 
 
@@ -71,7 +69,7 @@
 | ------- | ----- | ------------- | -------- |
 | 25-02-2025    | Анастасія Дармограй       | AI images                     | ✅ |
 | 04-03-2025    | Олександр Бердник         | Music & Audio Generation      | ✅ |
-| 11-03-2025    | ??         | ?      | ? |
+| 11-03-2025    | -         | -      | - |
 | 18-03-2025    | ??         | ?      | ? |
 | 25-03-2025    | ??         | ?      | ? |
 | 01-04-2025    | ??         | ?      | ? |
