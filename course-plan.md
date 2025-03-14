@@ -61,6 +61,8 @@
 
 14. AI safety 
 
+15. Ethical Considerations and Challenges in Generative AI (privacy, deepfakes, bias)
+
 
 ## Student activity
 
